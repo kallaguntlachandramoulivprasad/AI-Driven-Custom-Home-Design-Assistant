@@ -8,7 +8,7 @@ Category: Cloud Application Development
 [https://drive.google.com/file/d/1PBE4vxaxba4HhSSg_XmqKJVyiURCWHDR/view?usp=drive_link](https://drive.google.com/file/d/1yT-xIB_-CZgqVUR-f6jYhRLnAydL4LZv/view?usp=sharing)
 
 # Project Document:
-https://docs.google.com/document/d/1VrhQwrln1sHh4SEblDN8dI6amE2rUcgM/edit?usp=sharing&ouid=116371865846596511140&rtpof=true&sd=true
+[https://docs.google.com/document/d/1VrhQwrln1sHh4SEblDN8dI6amE2rUcgM/edit?usp=sharing&ouid=116371865846596511140&rtpof=true&sd=true](https://docs.google.com/document/d/1QSUZNfkutdZdg-SqJgR99tEl8AWj99nE/edit?usp=sharing&ouid=100386565694070869716&rtpof=true&sd=true)
 
 Skills Required: Machine Learning
 
